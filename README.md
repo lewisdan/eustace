@@ -35,3 +35,6 @@ Client Should Deliver:
 4. Shipping Rate
 5. Coupons
 6. Merchant Account (Credit Card + PayTm)
+
+Search:
+1. Text Search (Best Search PlugIn for Magento)
